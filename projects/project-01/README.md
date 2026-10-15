@@ -1,40 +1,50 @@
-# Project 01 — AI Automation
+# Project 01 — Basic n8n Workflow
 
 ## Overview
-Deskripsi singkat proyek yang sedang dikerjakan.
+
+Proyek latihan pertama untuk mempelajari dasar workflow automation menggunakan n8n.
 
 ## Objective
-- Masalah yang ingin diselesaikan:
-- Tujuan otomasi:
-- Hasil yang diharapkan:
+
+- Memahami konsep workflow dan node di n8n.
+- Membuat workflow yang dijalankan secara manual.
+- Membuat dan memproses data sederhana.
+- Memeriksa output eksekusi workflow.
 
 ## Tools & Technologies
-- Automation platform: n8n
-- Integrations: TBD
-- Other tools: TBD
 
-## Workflow
-Jelaskan alur kerja otomasi dari input sampai output.
+- n8n
+- Manual Trigger
+- Edit Fields (Set)
+- JSON fundamentals
 
-1. Input / Trigger
-2. Data processing
-3. Automation logic
-4. Output
+## Planned Workflow
+
+1. Manual Trigger memulai eksekusi workflow.
+2. Edit Fields membuat data contoh.
+3. Output diperiksa untuk memastikan data sesuai dengan yang diharapkan.
 
 ## Project Structure
-- `workflow/` — file ekspor workflow.
-- `screenshot/` — bukti visual dan hasil pengujian.
 
-## Testing
+- `README.md` — dokumentasi proyek.
+- `workflow/` — tempat menyimpan ekspor workflow n8n setelah dibuat.
+- `screenshot/` — tempat menyimpan screenshot workflow dan hasil pengujian.
+
+## Test Plan
+
 | Test case | Expected result | Actual result | Status |
 |---|---|---|---|
-| Normal input | TBD | TBD | Not tested |
+| Menjalankan workflow secara manual | Workflow berhasil dieksekusi | Belum diuji | Not tested |
+| Memeriksa data output | Nilai output sesuai data yang dibuat | Belum diuji | Not tested |
 
 ## Results
-Belum diuji.
+
+Belum ada hasil pengujian. Bagian ini akan diperbarui setelah workflow dibuat dan dijalankan.
 
 ## Lessons Learned
-Catatan pembelajaran dari proses pembuatan proyek.
+
+Akan diisi berdasarkan hal yang benar-benar dipelajari selama pengerjaan.
 
 ## Status
-Planning / In progress / Completed
+
+Planning
