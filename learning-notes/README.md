@@ -1,1 +1,1 @@
-Catatan konsep teknis yang sudah kamu pelajari.
+indeks catatan belajar
